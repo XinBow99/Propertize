@@ -59,8 +59,8 @@ The project can be run locally by installing the dependencies listed in requirem
 ## :sparkles: API ##
 
 The API documentation is available at http://localhost:8000/docs when the server is running.
-<img alt="api1" src="https://github.com/XinBow99/Propertize/images/api1.png" />
-<img alt="api2" src="https://github.com/XinBow99/Propertize/images/api2.png" />
+<img alt="api1" src="https://raw.githubusercontent.com/XinBow99/Propertize/main/images/api1.png" />
+<img alt="api2" src="https://raw.githubusercontent.com/XinBow99/Propertize/main/images/api2.png" />
 
 ## :rocket: Technologies ##
 
