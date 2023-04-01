@@ -5,7 +5,7 @@ from pydantic import BaseSettings, validator
 class Settings(BaseSettings):
     PROJECT_NAME: str = "Propertize"
     PROJECT_DESCRIPTION: str = "A simple API for Propertize"
-    PROJECT_VERSION: str = "0.1.0"
+    PROJECT_VERSION: str = "0.2.0"
     
     DATABASE_URL: str
     ACCESS_TOKEN_EXPIRE_MINUTES: int = 30
