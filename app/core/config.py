@@ -3,8 +3,8 @@ from fastapi import FastAPI
 from pydantic import BaseSettings, validator
 
 class Settings(BaseSettings):
-    PROJECT_NAME: str = "My Property Management App"
-    PROJECT_DESCRIPTION: str = "A simple API for property management"
+    PROJECT_NAME: str = "Propertize"
+    PROJECT_DESCRIPTION: str = "A simple API for Propertize"
     PROJECT_VERSION: str = "0.1.0"
     
     DATABASE_URL: str
